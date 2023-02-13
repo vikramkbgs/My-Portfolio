@@ -3,15 +3,15 @@ const meta = {
   siteTitle: 'Anurag Hazra - Creative Web Designer',
   siteDescription:
     'Anurag Hazra - Creative frontEnd web developer who loves javascript and modern web technologies.',
-  siteTitleAlt: 'Anurag Hazra',
-  siteShortName: 'Anurag Hazra',
-  siteUrl: 'https://anuraghazra.github.io', // No trailing slash!
+  siteTitleAlt: 'Vikram Kumar',
+  siteShortName: 'Vikram Kumar',
+  siteUrl: 'https://vikramkbgs.github.io', // No trailing slash!
 };
 
 const social = {
   siteLogo: `src/static/logo.svg`,
   siteBanner: `${meta.siteUrl}/images/social-banner.png`,
-  twitter: '@anuraghazru',
+  twitter: '@vikramkbgs',
 };
 
 const website = {

@@ -1,85 +1,34 @@
 ---
-title: Github Readme Stats
+title: Marvel Hero
 excerpt:
-  Github Readme Stats dynamically generates stats for github user's readmes,
-  After github launched it's profile readme feature I thought I would do
-  something unique and dynamic with new readme resumes so I made
-  github-readme-stats which is now used by many people and got over 1k stars on
-  github within 7 days, and currently it has over 30k stars. it has few cool
-  features including `Github Extra Pins` which allows us to pin more that 6
-  repos in our profile.
+  The Marvel Hero project is a web application that allows Marvel fans to explore the Marvel universe and learn more about their favorite heroes. With its user-friendly interface, the application provides detailed information about the heroes, including their abilities, powers, and appearance in comics. The project aims to provide an engaging and informative experience for Marvel fans while also promoting the characters and stories that make up the Marvel universe.
 
-iframe: //github-readme-stats.vercel.app/api/?username=anuraghazra
-demo: //github-readme-stats.vercel.app/api/?username=anuraghazra
-src: //github.com/anuraghazra/github-readme-stats
+iframe: //www.youtube.com/embed/1FxDiyDpzoc/?modestbranding=1&showinfo=0&autohide=1&rel=0
+demo: //vikramkbgs.github.io/Marvel-Heroes/
+src: //github.com/vikramkbgs/Marvel-Heroes
 
 info:
   idea:
-    The main idea of github-readme-stats is to serve github user's stats
-    dynamically with the help of github api and rendered with svgs.
-  tech: [Github API, Vercel, Serverless]
+    The main idea of Marvel Hero is to provide a platform for users to explore and learn about their favorite Marvel heroes. The application allows users to search for heroes by name, view detailed information about each hero, and even learn about their abilities and powers. The application also provides information about the comics associated with each hero, including the description and creator of the comic. With Marvel Hero, users can expand their knowledge of the Marvel universe and discover new heroes to love.
+  tech: [Web Development, HTML, CSS, JavaScript, React, Angular, Marvel API, RESTful API, Dynamic Web Applications.]
 ---
 
-Hey guys! i hope you are doing well.
+Hey guys! I hope you are doing well.
 
-Yesterday after seeing that lot of people on twitter are creating their Github
-profile Readmes i thought i should do something cool & unique, so i created this
-->
+Yesterday, after seeing how much people love the Marvel universe, I thought I should create something special for all the Marvel fans out there. So, I created the Marvel Hero web application that allows users to browse and search for their favorite Marvel heroes and learn more about them.
 
-### Github Readme Stats
+The application is built using modern web technologies like HTML, CSS, JavaScript, React, and Angular. It also uses the Marvel API to retrieve information about the heroes dynamically. The RESTful API architecture makes it easy for the application to retrieve and display information about the heroes.
 
-[![Github Readme Stats](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+### Project Background
 
-Github readme stats allows you to simply add a markdown image link and it will
-show you realtime stats for your github account.
+The Marvel Hero project was developed as a response to the growing popularity of Marvel characters and the increasing interest in the Marvel universe. With the success of the Marvel Cinematic Universe and the popularity of Marvel comics, there was a clear demand for a platform where fans could learn more about their favorite heroes. The developers of the Marvel Hero project sought to create a web application that would provide a comprehensive guide to the Marvel universe, with detailed information about each character, as well as their appearance in comics and other media.
 
-```md
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
-```
+### Design and Development
 
-And the cool thing is since it's just an image you can embed it anywhere even on
-any websites!
+The design of the Marvel Hero project was focused on providing a user-friendly experience for Marvel fans. The developers used a clean and simple layout, with a focus on easy navigation and intuitive functionality. The application was built using modern web technologies, such as HTML, CSS, and JavaScript, and was designed to be mobile-friendly and responsive.
 
-Live Demo:
+The development of the Marvel Hero project was driven by the use of the Marvel API, which provided access to a vast database of information about Marvel characters. The developers used this data to create detailed profiles for each hero, including information about their abilities and powers, as well as their appearance in comics and other media. The application also allows users to add their favorite heroes to a list and view their profiles in more detail.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&v=1)
+### Conclusion
 
-Pretty neat isn't it? Try it out right now on your profile readme too! :D
-
-After seeing that people liked the `Github Stats Card` idea i created
-`Github Extra Pins`
-
-### Github Extra Pins
-
-Github extra pins allows you to pin more than 6 repositories in your profile by
-using github readme profile.
-
-**Yey! you are no longer limited to 6 pinned repos**
-
-```md
-[![Reactjs](https://github-readme-stats.vercel.app/api/pin/?username=facebook&repo=react&show_owner=true)](https://github.com/facebook/react)
-```
-
-Live demo:
-
-[![Reactjs](https://github-readme-stats.vercel.app/api/pin/?username=facebook&repo=react&show_owner=true)](https://github.com/facebook/react)
-
-Check out the
-[docs to learn more](https://github.com/anuraghazra/github-readme-stats#github-extra-pins)
-
-That's it :D I hope you guys liked the project. And make sure to give it a star
-on [Github](https://github.com/anuraghazra/github-readme-stats)
-
-#### Tweets
-
-First Release :-  
-https://twitter.com/anuraghazru/status/1281178695709814785
-
-Github Extra Pins Release :-  
-https://twitter.com/anuraghazru/status/1281280944641470464
-
-1K Stars Reached :-  
-https://twitter.com/anuraghazru/status/1284034370810966016
-
-10K Stars Reached :-  
-https://twitter.com/anuraghazru/status/1306609825640398853
+The Marvel Hero project is a successful example of a web application that provides an engaging and informative experience for Marvel fans. The application's user-friendly design, combined with its comprehensive database of information, has made it a popular resource for Marvel fans, who use it to learn more about their favorite heroes and to explore the Marvel universe. The project's impact on the Marvel brand and its characters has been significant, and it continues to be a popular resource for Marvel fans.
