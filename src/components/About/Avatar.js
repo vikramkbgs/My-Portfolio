@@ -16,7 +16,7 @@ const AvatarWrapper = styled.div`
 const Avatar = ({ src }) => {
   return (
     <AvatarWrapper>
-      <Image src={src} />
+      <Image src={src} style={{transform: 'scale(1.32)'}}/>
     </AvatarWrapper>
   );
 };

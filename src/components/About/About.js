@@ -19,37 +19,40 @@ const About = () => {
           <Avatar src="hfest_avatar_2.jpg" />
         </div>
         <p>
-          Hi, I'm Anurag Hazra, a self-taught passionate FrontEnd developer from
-          India, currently working at{' '}
-          <a className="about__link" href="https://razorpay.com">
-            Razorpay
-          </a>{' '}
-          as a FrontEnd engineer. I've been building stuff on the web since when
-          I was in 6th standard, I've made countless side projects and I also
-          posses magical powers of using react to build delightful user
-          interfaces.
+          Hi, I'm Vikram Kumar, a full-stack developer and recent graduate.
+          During my time in college, I honed my skills by building various
+          projects and gained hands-on experience in full-stack development. I
+          am eager to apply my skills and continue growing as a developer in a
+          professional setting.
           <br />
-          <br />I also love doing <b>open source</b> development, I actively
-          maintain various notable open source projects with over, <br />
-          <b>30k+ stars on GitHub</b> and <b>50m+ hits</b>. It gives me a
-          wonderful feeling of achievement and joy which I cannot explain in
-          words.
+          <br />I am a full-stack developer with expertise in the MERN stack, as
+          well as experience with Java, JavaScript, C++, Bootstrap, jQuery,
+          Ajax, and a little bit of machine learning. I have a strong foundation
+          in these programming languages and am a quick learner, constantly
+          seeking new challenges and projects. My passion for creating
+          well-designed, functional websites and applications that can improve
+          people's lives drives my continued growth as a developer.
         </p>
       </AboutInfo>
 
       <Flex justify="space-between" className="quotes__wrapper">
         <Quote>
-          <p>“Simplicity is the baddest choice to be the best.“</p>
-        </Quote>
-        <Quote>
           <p>
-            “I know I’m not successful enough, but I’m passionate enough not to
-            worry about success.“
+            “Success and self-improvement are two sides of the same coin, with
+            each fueling the other in a never-ending cycle of growth and
+            accomplishment.”
           </p>
         </Quote>
         <Quote>
           <p>
-            “Creativity is the driver of an unstoppable train called Passion.”
+            “Success may elude me, but my passion fuels me to live life to the
+            fullest and worry not about societal norms.”
+          </p>
+        </Quote>
+        <Quote>
+          <p>
+            “Creativity fuels the unstoppable train of passion, driving us
+            towards our passions and making our ideas a reality.”
           </p>
         </Quote>
       </Flex>

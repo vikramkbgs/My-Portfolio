@@ -20,8 +20,8 @@ const ThingsILove = () => (
       </CardIcon>
       <CardTitle>FrontEnd</CardTitle>
       <CardText>
-        I'm more front end focused and love to work with Reactjs as well as pure
-        HTML, CSS.
+        I have a strong passion for developing web applications using React and
+        the core web technologies of HTML, CSS, and JavaScript.
       </CardText>
     </Card>
 
@@ -29,10 +29,11 @@ const ThingsILove = () => (
       <CardIcon>
         <FontAwesomeIcon icon={['fab', 'js']} />
       </CardIcon>
-      <CardTitle>Javascript</CardTitle>
+      <CardTitle>BackEnd</CardTitle>
       <CardText>
-        I just extremely love javascript, I can’t even express how much I love
-        javascript with just a few lines.
+        Experienced in building scalable back-end systems with Node.js, Express,
+        and MongoDB. Skilled in utilizing Express libraries for secure and
+        efficient solutions.
       </CardText>
     </Card>
 
@@ -42,8 +43,9 @@ const ThingsILove = () => (
       </CardIcon>
       <CardTitle>Creative Coding</CardTitle>
       <CardText>
-        I love creative coding because I do both coding & designing. making
-        beautiful art with code is very satisfying to me.
+        I find it highly fulfilling to bring my ideas to life through code, and I
+        am constantly seeking new challenges and opportunities to expand my
+        knowledge in this field.
       </CardText>
     </Card>
   </Flex>

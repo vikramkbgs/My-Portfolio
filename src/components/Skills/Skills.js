@@ -50,12 +50,18 @@ const WordClouds = () => {
       <p style={{ top: 50, left: '100%', fontSize: 23 }}>HTML5</p>
       <p style={{ top: 0, left: 0, fontSize: 25 }}>WebGL</p>
       <p style={{ top: 200, left: -60, fontSize: 14 }}>CSS3</p>
-      <p style={{ top: '30%', left: '35%', fontSize: 18 }}>figma</p>
-      <p style={{ top: 40, left: '75%', fontSize: 12 }}>antd</p>
+      <p style={{ top: '30%', left: '35%', fontSize: 14 }}>figma</p>
+      <p style={{ top: 40, left: '75%', fontSize: 19 }}>antd</p>
       <p style={{ top: 380, left: '85%', fontSize: 18 }}>MongoDB</p>
-      <p style={{ top: 320, left: '65%', fontSize: 18 }}>Gatsby</p>
+      <p style={{ top: 320, left: '65%', fontSize: 14 }}>Gatsby</p>
       <p style={{ top: 350, left: 150, fontSize: 20 }}>ES6</p>
-      <p style={{ top: 120, left: '22%', fontSize: 12 }}>blender</p>
+      <p style={{ top: 90, left: '18%', fontSize: 18 }}>blender</p>
+      <p style={{ top: 220, left: '44%', fontSize: 17 }}>PostgreSQL</p>
+      <p style={{ top: 270, left: '25%', fontSize: 18 }}> Git</p>
+      <p style={{ top: 70, left: '45%', fontSize: 16 }}> Postman</p>
+      <p style={{ top: 270, left: '79%', fontSize: 21 }}> Java</p>
+      <p style={{ top: 120, left: '70%', fontSize: 16 }}> Firebase</p>
+      <p style={{ top: 220, left: '98%', fontSize: 21 }}> Express</p>
     </Parallax>
   );
 };
