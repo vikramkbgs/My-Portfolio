@@ -1,11 +1,11 @@
 const meta = {
   // Metadata
-  siteTitle: 'Anurag Hazra - Creative Web Designer',
+  siteTitle: 'Vikram Kumar - Creative Full Stack Engineer',
   siteDescription:
-    'Anurag Hazra - Creative frontEnd web developer who loves javascript and modern web technologies.',
+    'A skilled and enthusiastic developer from India with expertise in both Java and the MERN stack.',
   siteTitleAlt: 'Vikram Kumar',
   siteShortName: 'Vikram Kumar',
-  siteUrl: 'https://vikramkbgs.github.io', // No trailing slash!
+  siteUrl: 'https://myportfoliovikram.gatsbyjs.io/', // No trailing slash!
 };
 
 const social = {
@@ -17,8 +17,8 @@ const social = {
 const website = {
   ...meta,
   ...social,
-  disqusShortName: 'anuraghazra',
-  googleAnalyticsID: 'UA-119972196-1',
+  disqusShortName: 'vikramkbgs',
+  googleAnalyticsID: 'G-FH7Y01CCF3',
   // Manifest
   themeColor: '#6D83F2',
   backgroundColor: '#6D83F2',

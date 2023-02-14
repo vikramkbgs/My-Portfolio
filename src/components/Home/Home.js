@@ -64,7 +64,11 @@ const Home = () => {
           <p className="adjust">CREATIVE FULL STACK DEVELOPER</p>
 
           <div className="home__CTA">
-            <Button className="cta" as="a" href="#">
+            <Button
+              className="cta"
+              as="a"
+              href="https://drive.google.com/uc?export=download&id=1yCM9ZMDp1briqEDXSFZDe_gCyZph4v6k"
+            >
               Download Resume
             </Button>
 
@@ -72,17 +76,17 @@ const Home = () => {
               <IconLink
                 label="github"
                 icon={['fab', 'github']}
-                href="//github.com/anuraghazra"
+                href="//github.com/vikramkbgs"
               />
               <IconLink
                 label="twitter"
                 icon={['fab', 'twitter']}
-                href="//twitter.com/anuraghazru"
+                href="//twitter.com/vikramkbgs"
               />
               <IconLink
                 label="codepen"
                 icon={['fab', 'codepen']}
-                href="//codepen.io/anuraghazra"
+                href="//codepen.io/vikramkbgs"
               />
             </div>
           </div>
