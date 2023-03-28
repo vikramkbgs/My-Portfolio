@@ -67,7 +67,7 @@ const Home = () => {
             <Button
               className="cta"
               as="a"
-              href="https://drive.google.com/uc?export=download&id=1yCM9ZMDp1briqEDXSFZDe_gCyZph4v6k"
+              href="https://drive.google.com/uc?export=download&id=1GVV_ng0VAJgO2MtApMdVH9tyJGDLUWdC"
             >
               Download Resume
             </Button>
